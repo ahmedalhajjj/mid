@@ -6,7 +6,7 @@ btn =[
     [Button.inline("التثبيت", data="pins"), Button.inline("التنظيف", data="purges")],
     [Button.inline("التشغيل", data="play"), Button.inline("المحذوفين", data="zombies")],
     [Button.inline("القفل", data="locks"), Button.inline("اخرى", data="misc")],
-    [Button.inline("الئيسية", data="start")]]
+    [Button.inline("الأساسية", data="start")]]
 
 HELP_TEXT = "اهلا بك في قائمة اوامر سورس ميدو\n\nاضغط على الازرار من الاسفل:"
 
